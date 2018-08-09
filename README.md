@@ -11,3 +11,5 @@ e.g:
 3. Using sratools to fetch and dump the sra files.
    perl geo_fetch.pl  Jason_hemo_scATAC_sample_GSE.index.HSC  >geo_fetch_batch.sh
    
+4. All the commands and scripts are stored @/home/jinxu/Data/HSC/scATAC-Jason-Hemo/GSE96772/Jason_hemo_scATAC
+   
